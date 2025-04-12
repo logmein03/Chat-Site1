@@ -117,7 +117,12 @@ document.addEventListener("DOMContentLoaded", () => {
           <div class="placeholder-content">
             <i class="fas fa-home fa-3x"></i>
             <h3>Home Dashboard</h3>
-            <p>You’re welcome to Official verified financial Management, how can we help you and who gave you our contact ? and do as well  to follow the instructions properly..</p>
+            <p>Coinbase offers multiple support options to assist you with your account:
+	•	Help Center: Access a comprehensive library of articles and step-by-step guides for troubleshooting and information.
+	•	Contact Methods: Coinbase provides support through chat, phone, and email 24 hours a day, and by mail during business hours.
+	•	Social Media: For updates and assistance, follow Coinbase Support on Twitter:
+
+Please note that as Coinbase expands into more markets, initial support in some regions may be limited to self-help resources. Although email and phone support might not be available in these areas, customers have full access to the comprehensive library of support articles...</p>
           </div>
         `
         break
